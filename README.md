@@ -3,7 +3,7 @@
 
 The workshop code is available as [Jupyter notebooks](https://mybinder.org/v2/gh/loaiabdalslamdahy/Data-Analysis-Course/master/notebooks). You can run the notebooks in the cloud (no installation required) by clicking the "launch binder" button:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aymanibrahim/dapy/master)
+[![Binder](https://mybinder.org/badge_logo.svg)]((https://mybinder.org/v2/gh/loaiabdalslamdahy/Data-Analysis-Course/master/notebooks)
 
 # Why
 For people who struggle to start in data analysis with Python
