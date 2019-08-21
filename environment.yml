@@ -1,13 +1,16 @@
-name: example-environment
+name: dapy
 channels:
   - conda-forge
 dependencies:
+  - python=3.7
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
+  - seaborn
   - pandas
-  - partd
-  - bokeh
-  - dask
+  - scikit-learn
+  - nodejs
+  - ipywidgets
+  - widgetsnbextension
+  - jupyter_contrib_nbextensions
+  - jupyterlab
+  - rise
